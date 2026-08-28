@@ -821,4 +821,4 @@ Authorization: Bearer YOUR_SEND_SECRET
 اگر پروژه برایتان مفید بود، می‌توانید Repository را ⭐ Star کنید و تغییرات و بهبودهای خود را با دیگران به اشتراک بگذارید.
 
 **PriceInstant**
-Telegram: `@PriceInstant`
+Telegram: [@PriceInstant](https://t.me/PriceInstant)
