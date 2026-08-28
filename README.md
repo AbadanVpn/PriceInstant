@@ -78,6 +78,10 @@ https://api.brsapi.ir/Market/Gold_Currency.php
 
 برای استفاده از API باید یک API Key معتبر داشته باشید.
 
+✨ برای دریافت API رایگان از سایت زیر اقدام کنید :
+
+https://api.brsapi.ir/Panel/register.html
+
 ---
 
 ### 2. Telegram Bot Token
