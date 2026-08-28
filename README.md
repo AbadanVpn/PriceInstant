@@ -806,18 +806,15 @@ Authorization: Bearer YOUR_SEND_SECRET
 
 ---
 
-# ⭐ Support
+# 📜 License
 
-اگر این پروژه برای شما مفید بود، می‌توانید Repository را ⭐ **Star** کنید.
-
-Pull Request و پیشنهادهای بهبود نیز مورد استقبال هستند.
+این پروژه را می‌توانید مطابق شرایط License موجود در این Repository استفاده، تغییر و شخصی‌سازی کنید.
 
 ---
 
-## 📊 PriceInstant
+# ⭐ Support
 
-**Telegram:** `@PriceInstant`
+اگر پروژه برایتان مفید بود، می‌توانید Repository را ⭐ Star کنید و تغییرات و بهبودهای خود را با دیگران به اشتراک بگذارید.
 
-**Cloudflare Worker + BRS API + Telegram Bot**
-
-Made for simple, serverless market price publishing.
+**PriceInstant**
+Telegram: `@PriceInstant`
