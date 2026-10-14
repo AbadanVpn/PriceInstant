@@ -822,4 +822,4 @@ Authorization: Bearer YOUR_SEND_SECRET
 
 **PriceInstant**
 
-Telegram: [@PriceInstant](https://t.me/PriceInstant)
+
